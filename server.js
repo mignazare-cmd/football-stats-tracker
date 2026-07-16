@@ -71,7 +71,7 @@ app.get('/', (req, res) => {
     <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Football Stats Tracker</title>
+      <title>Estatísticas da temporada 2025/2026</title>
       <!-- Tailwind CSS para um design instantaneamente incrível -->
       <script src="https://cdn.tailwindcss.com"></script>
     </head>
