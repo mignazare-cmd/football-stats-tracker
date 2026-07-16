@@ -82,7 +82,7 @@ app.get('/', (req, res) => {
         <header class="flex flex-col md:flex-row items-center justify-between mb-10 pb-6 border-b border-gray-800">
           <div>
             <h1 class="text-3xl font-extrabold tracking-tight text-white flex items-center gap-2">
-              ⚽ Football Stats Tracker
+              ⚽ Estatísticas da temporada 2025/2026
             </h1>
             <p class="text-gray-400 mt-1">Estatísticas de elite das principais ligas europeias (Época 2025/2026)</p>
           </div>
